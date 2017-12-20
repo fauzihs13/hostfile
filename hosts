@@ -1,0 +1,68 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1		    uadexchange.com
+127.0.0.1		    cfs2.uadexchange.com
+127.0.0.1 	            uzone.id
+127.0.0.1		    mostexclusivewebsite.com
+127.0.0.1		    www.mostexclusivewebsite.com
+151.101.129.140             reddit.com
+151.101.129.140             www.reddit.com
+151.101.49.140              b.thumbs.redditmedia.com
+151.101.49.140              i.reddituploads.com
+151.101.49.140              i.redditmedia.com         
+151.101.49.140              g.redditmedia.com
+151.101.49.140              a.thumbs.redditmedia.com
+151.101.193.140             redditgifts.com
+151.101.129.140             ssl.reddit.com
+151.101.129.140             blog.reddit.com
+151.101.129.140             forum.reddit.com
+151.101.129.140             help.reddit.com
+151.101.129.140             test.reddit.com
+151.101.129.140             pay.reddit.com
+151.101.129.140             en.reddit.com
+151.101.129.140             en-us.reddit.com
+151.101.129.140             4x.reddit.com
+151.101.85.140              m.reddit.com
+151.101.129.140             np.reddit.com
+151.101.129.140             nsfw.reddit.com
+151.101.129.140             oauth.reddit.com
+52.88.110.117               events.redditmedia.com
+151.101.49.140              www.redditstatic.com
+52.205.201.248              stats.redditmedia.com
+54.174.14.76                out.reddit.com
+54.172.97.229               redd.it
+151.101.85.140              i.redd.it
+54.173.170.4                pixel.redditmedia.com
+151.101.49.140              www.redditmedia.com
+151.101.49.140              about.reddit.com
+104.27.160.147              pururin.us
+141.101.120.55              nhentai.net
+141.101.120.55              static.nhentai.net
+185.2.83.13                 t.nhentai.net
+104.27.146.181              hpjav.com
+104.16.166.50               openload.co
+104.16.165.50               t1.openload.co
+104.16.164.50               tt1.openload.co
+104.16.164.50               api.openload.co
+104.16.164.50               support.openload.co
+192.124.249.11              hentaihaven.org www.hentaihaven.org
